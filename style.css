@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(87, 87, 235);
+    font-family: Arial;
+    font-size: 40px
+}
+
+.container {
+    display: inline-block;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
